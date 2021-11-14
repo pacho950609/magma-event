@@ -1,8 +1,8 @@
 import requests
 import json
 
-network_id = 'uniandes_network_01'
-subscriber_id = 'IMSI901700100001113'
+network_id = 'idt_network_01'
+subscriber_id = 'IMSI901700100001111'
 pemPath = '../../admin_operator.pem'
 
 def upgradeBandwidth():
